@@ -1,1 +1,1 @@
-FROM jitsi/jicofo:stable-9646
+FROM jitsi/jicofo:stable-9111
